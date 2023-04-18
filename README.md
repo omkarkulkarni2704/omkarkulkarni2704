@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarkulkarni2704" alt="omkarkulkarni2704" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omkarkulkarni_" target="blank"><img src="https://img.shields.io/twitter/follow/omkarkulkarni_?logo=twitter&style=for-the-badge" alt="omkarkulkarni_" /></a> </p>
-<img align="right" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img align="right" alt="Coding" width="200"  src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> 
 
 
 - 🔭 I’m currently working on [Language Translator App](https://github.com/omkarkulkarni2704/Language-Translator-App)

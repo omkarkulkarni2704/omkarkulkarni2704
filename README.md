@@ -1,4 +1,4 @@
-![logo](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630)
+![Masterhead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1100%2C400)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 

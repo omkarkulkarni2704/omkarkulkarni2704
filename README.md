@@ -1,4 +1,4 @@
-![logo](https://github.com/omkarkulkarni2704/omkarkulkarni2704/blob/main/images%20(2).jpg?raw=true)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fwireless-network%3Fl%3Djavascript&psig=AOvVaw2-QFaNlTQGh4JiCM3GuPVS&ust=1681894005239000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICqhNGFs_4CFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 

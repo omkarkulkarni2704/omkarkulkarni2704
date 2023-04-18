@@ -1,4 +1,4 @@
-
+![logo](https://github.com/omkarkulkarni2704/omkarkulkarni2704/blob/main/Laptop%20Image.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 <img align="center" alt="Coding" width="400" length="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

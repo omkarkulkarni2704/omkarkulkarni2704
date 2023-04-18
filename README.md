@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3I_rhY-NyksmdKYf_tC7_a&ust=1681884164860000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjukv3gsv4CFQAAAAAdAAAAABAE
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarkulkarni2704" alt="omkarkulkarni2704" /></a> </p>

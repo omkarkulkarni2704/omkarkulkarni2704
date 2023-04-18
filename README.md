@@ -1,4 +1,4 @@
-[![Masterhead](https://learn.adafruit.com/assets/112711)](omkarkulkarni2704)
+[![Masterhead](https://learn.adafruit.com/assets/112711)](https://omkarkulkarni2704)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

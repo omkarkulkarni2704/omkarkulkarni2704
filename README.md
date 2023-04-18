@@ -1,3 +1,4 @@
+![logo](https://github.com/omkarkulkarni2704/omkarkulkarni2704/blob/main/images%20(2).jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 

@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fusnistgov&psig=AOvVaw2yOa22GzpHJ_LYQdktOur4&ust=1681894061806000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD7teqFs_4CFQAAAAAdAAAAABAR)
+![logo](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 <h3 align="center">Software Development Intern at Exposys Data Labs.</h3>
 

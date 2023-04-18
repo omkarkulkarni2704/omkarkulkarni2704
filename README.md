@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
+![Masterhead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1100%2C400)
 
+<h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704" /> </p>
 

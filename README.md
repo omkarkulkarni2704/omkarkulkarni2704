@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SPnztxq-DsmRmAqVHF4fbbFRJRIEY1-2/view?usp=drive_link](https://drive.google.com/file/d/1SPnztxq-DsmRmAqVHF4fbbFRJRIEY1-2/view?usp=drive_link)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/omkarkulkarni2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omkarkulkarni2704" height="30" width="40" /></a>

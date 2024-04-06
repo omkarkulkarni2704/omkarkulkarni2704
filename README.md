@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/omkarkulkarni_" target="blank"><img src="https://img.shields.io/twitter/follow/omkarkulkarni_?logo=twitter&style=for-the-badge" alt="omkarkulkarni_" /></a> </p>
 
-- 🔭 Software Intern
+- 🔭 Software Engineer
 
 - 🌱 I’m currently learning **React, JavaScript**
 

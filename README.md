@@ -22,9 +22,7 @@
 <a href="https://twitter.com/omkarkulkarni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarkulkarni_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omkar-kulkarni-6540b6203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-kulkarni-6540b6203" height="30" width="40" /></a>
 <a href="https://fb.com/omkar.kulkarni.754365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omkar.kulkarni.754365" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omkarkulkarni271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarkulkarni271" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omkarkulkarni2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkarkulkarni2704" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/omkarkulkarni2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="omkarkulkarni2704" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -11,7 +11,6 @@
 
 - 🔭 Software Engineer
 
-- 🌱 I’m currently learning **React, JavaScript**
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 

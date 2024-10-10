@@ -1,6 +1,6 @@
 ![Masterhead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1100%2C400)
 
-<h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1> 
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 

@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 
+- My **<a href="https://drive.google.com/file/d/1alUPtRWbVmCgmbA00v76M7IxvlNG9HjT/view?usp=drive_link" target="_blank"> Resume </a>**
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">

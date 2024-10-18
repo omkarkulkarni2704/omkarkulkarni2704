@@ -1,13 +1,3 @@
-<a href="https://chromedino.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://mrousavy.com" src="./img/dino.gif" />
-  </picture>
-</a>
-
-
-
 <h1 align="center">Hi 👋, I'm Omkar Kulkarni</h1> 
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">

@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/omkarkulkarni_" target="blank"><img src="https://img.shields.io/twitter/follow/omkarkulkarni_?logo=twitter&style=for-the-badge" alt="omkarkulkarni_" /></a> </p>
-
+ 
 - 🔭 SDE Intern 
 
 
@@ -32,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en" alt="omkarkulkarni2704" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&" alt="omkarkulkarni2704" /></p>
 

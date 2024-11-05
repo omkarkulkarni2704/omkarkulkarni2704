@@ -9,6 +9,8 @@
  
 - 🔭 SDE Intern 
 
+- 🌱 I’m currently learning **Spring Boot**
+
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
@@ -38,7 +40,7 @@
     </p>
 
 
-## <h3 align="left">GitHub Stats:</h3>
+## <h3 align="left">GitHub Stats & Contributions:</h3>
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkulkarni2704&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omkarkulkarni2704" /></p>

@@ -9,7 +9,7 @@
  
 - 🔭 SDE Intern 
 
-- 🌱 I’m currently learning **Spring Boot and DSA**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 

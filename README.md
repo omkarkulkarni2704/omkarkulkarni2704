@@ -12,7 +12,7 @@ Hello! 👋 I am Omkar Kulkarni, an Engineering graduate from Pune University. I
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
   
-- 🔭 SDE Intern 
+- 🔭 SDE Intern at Exposys Data Labs
 
 - 🌱 I’m currently learning **Spring Boot**
 

@@ -54,4 +54,4 @@ Hello! 👋 I am Omkar Kulkarni, Dynamic and detail-oriented an Engineering grad
 
 ## <h3 align="left">GitHub Activity Graph:</h3>
 
-[![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=0a0608&color=1f3a70&line=4c689e&point=2e4676&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=0b0e13&color=1f3e5d&line=1f3e5d&point=3e413f&area=true&hide_border=true)](https://github.com/omkarkulkarni2704/github-readme-activity-graph)

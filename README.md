@@ -10,7 +10,7 @@
 
 Hello! 👋 I am Omkar Kulkarni, Dynamic and detail-oriented an Engineering graduate from Pune University. I am proficient in Java, Python, and Spring Boot, with a solid foundation in SQL, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like Bookshelf Emporium, Trivia Quest, and a Drowsiness Detection System showcasing diverse skills in e-commerce, interactive applications, and safety systems.
   
-- 🔭 SDE Intern at Exposys Data Labs
+- 🔭 SDE Intern at **Exposys Data Labs**
 
 - 🌱 I’m currently learning **Spring Boot**
 

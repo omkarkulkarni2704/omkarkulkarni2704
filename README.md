@@ -19,7 +19,7 @@ Hi! 👋 I am Omkar Kulkarni, an engineering graduate from Pune University. I am
 - ⚡ Interesting Fun fact **Java was named while James Gosling was enjoying a cup of coffee.**
 
 
-# <h3 align="left">Languages & Tools:</h3>
+## Languages & Tools:
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -43,7 +43,7 @@ Hi! 👋 I am Omkar Kulkarni, an engineering graduate from Pune University. I am
     </p>
 
 
-# <h3 align="left">GitHub Stats & Contributions:</h3>
+## GitHub Stats & Contributions:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkulkarni2704&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omkarkulkarni2704" /></p>
 
@@ -52,6 +52,6 @@ Hi! 👋 I am Omkar Kulkarni, an engineering graduate from Pune University. I am
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&&theme=tokyonight" alt="omkarkulkarni2704" /></p>
  
 
-# <h3 align="left">GitHub Activity Graph:</h3>
+## GitHub Activity Graph:
 
 [![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=0b0e13&color=1f3e5d&line=1f3e5d&point=3e413f&area=true&hide_border=true)](https://github.com/omkarkulkarni2704/github-readme-activity-graph)

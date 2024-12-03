@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
 
 
-Hello! 👋 I am Omkar Kulkarni, a dynamic and detail-oriented Engineering Graduate from Pune University. I am proficient in Java, Python, and Spring Boot, with a solid foundation in SQL, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like Bookshelf Emporium, Trivia Quest, and a Drowsiness Detection System showcasing diverse skills in e-commerce, interactive applications, and safety systems.
+Hello! 👋 I am Omkar Kulkarni, a dynamic and detail-oriented engineering graduate from Pune University. I am proficient in Java, Python, and Spring Boot, with a solid foundation in SQL, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like Bookshelf Emporium, Trivia Quest, and a Drowsiness Detection System showcasing diverse skills in e-commerce, interactive applications, and safety systems.
   
 - 🔭 SDE Intern at **Exposys Data Labs**
 

@@ -1,9 +1,13 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omkar+Kulkarni!;" /> 
 
-<h1>
-  About Me 
-</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704" /> </p>  
+# About Me 
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/)
+[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_) 
+<img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
+
+
 Hello! 👋 I am Omkar Kulkarni, an Engineering graduate from Pune University. I am proficient in Java, Python, and Spring Boot, with a solid foundation in SQL, DSA, and object-oriented programming.
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
@@ -12,7 +16,7 @@ Hello! 👋 I am Omkar Kulkarni, an Engineering graduate from Pune University. I
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Interesting Fun fact **Java was named while James Gosling was enjoying a cup of coffee.**
 
 
 ## <h3 align="left">Languages & Tools:</h3>

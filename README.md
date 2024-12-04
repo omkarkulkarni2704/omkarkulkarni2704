@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
 
 
-Hi! 👋 I am Omkar Kulkarni, an engineering graduate from Pune University. I am proficient in Java, Python, and Spring Boot, with a solid foundation in SQL, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like Bookshelf Emporium, Trivia Quest, and a Drowsiness Detection System showcasing diverse skills in e-commerce, interactive applications, and safety systems.
+Hi! 👋 I am **Omkar Kulkarni**, an engineering graduate from **Pune University**. I am proficient in Java, SQL, and Python, with a solid foundation in Spring Boot, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like Bookshelf Emporium, Trivia Quest, and a Drowsiness Detection System showcasing diverse skills in e-commerce, interactive applications, and safety systems.
   
 - 🔭 SDE Intern at **Exposys Data Labs**
 
@@ -54,4 +54,4 @@ Hi! 👋 I am Omkar Kulkarni, an engineering graduate from Pune University. I am
 
 ## GitHub Activity Graph
 
-[![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=000000&color=3c46a0&line=3c46a0&point=403f3e&area=true&hide_border=true)](https://github.com/omkarkulkarni2704/github-readme-activity-graph)
+[![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=15122b&color=2828e6&line=2828e6&point=1e0a0a&area=true&hide_border=true)](https://github.com/omkarkulkarni2704/github-readme-activity-graph)

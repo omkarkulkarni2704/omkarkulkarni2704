@@ -52,6 +52,3 @@ Hi! 👋 I am **Omkar Kulkarni**, an engineering graduate from **Pune University
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&&theme=tokyonight" alt="omkarkulkarni2704" /></p>
  
 
-## GitHub Activity Graph
-
-[![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&bg_color=15122b&color=2872e6&line=2872e6&point=15122b&area=true&hide_border=true)](https://github.com/omkarkulkarni2704/github-readme-activity-graph)

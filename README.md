@@ -43,12 +43,4 @@ Hi! 👋 I am **Omkar Kulkarni**, an engineering graduate from **Pune University
     </p>
 
 
-## GitHub Stats & Contributions
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkulkarni2704&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omkarkulkarni2704" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en&theme=tokyonight" alt="omkarkulkarni2704" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&&theme=tokyonight" alt="omkarkulkarni2704" /></p>
- 
 

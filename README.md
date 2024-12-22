@@ -18,7 +18,7 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 
-- ⚡ Interesting Fun fact **Java was named while James Gosling was enjoying a cup of coffee.**
+- ⚡ Interesting Fun fact: **Java was named while James Gosling was enjoying a cup of coffee.**
 
 
 ## Languages & Tools

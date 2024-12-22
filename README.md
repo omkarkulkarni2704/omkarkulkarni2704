@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
 
 
-Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from [**Pune University**](http://www.unipune.ac.in/). I am proficient in Java, SQL, and Python, with a solid foundation in Spring Boot, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like [**Bookshelf Emporium**](https://github.com/omkarkulkarni2704/Bookshelf-Emporium), [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest), and a [**Drowsiness Detection System**](https://github.com/omkarkulkarni2704/Drowsiness_Detection_System) showcasing diverse skills in e-commerce, interactive applications, and safety systems.
+Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from [**Pune University**](http://www.unipune.ac.in/). I am proficient in Java, SQL, and Python, with a solid foundation in Spring Boot, DSA, and object-oriented programming. Adept at developing end-to end solutions. Developed innovative projects like **Bookshelf Emporium**, **Trivia Quest**, and a **Drowsiness Detection System**, showcasing diverse skills in e-commerce, interactive applications, and safety systems.
   
 - 🔭 SDE Intern at [**Exposys Data Labs**](https://www.exposysdata.com/)
 

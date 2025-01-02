@@ -44,5 +44,7 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omkarkulkarni2704&theme=dark)](https://git.io/streak-stats)
 
+![omkarkulkarni2704's Stats](https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![omkarkulkarni2704's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=dark&hide_border=false)
+![omkarkulkarni2704's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkulkarni2704&theme=dark&show_icons=true&hide_border=false&layout=compact)

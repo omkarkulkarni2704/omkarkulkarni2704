@@ -33,11 +33,6 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 ![omkarkulkarni2704's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=dark&hide_border=false)
 
 
-# 🏆GitHub Trophies:
-
-<a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=omkarkulkarni2704" width="520" /></a>
-
-
 # ✍️Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

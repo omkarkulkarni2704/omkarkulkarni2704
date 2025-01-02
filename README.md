@@ -22,24 +22,28 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
 
 
 # 📊 GitHub Stats:
+
 <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en&theme=dark&rank_icon=github" />
 
 ![omkarkulkarni2704's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=dark&hide_border=false)
 
 
 # 🏆GitHub Trophies:
+
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=omkarkulkarni2704" width="520" /></a>
 
 
 # ✍️Random Dev Quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
----
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

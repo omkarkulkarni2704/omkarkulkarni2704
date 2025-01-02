@@ -28,9 +28,8 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en&theme=dark&rank_icon=github" />
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=omkarkulkarni2704)
 
-# 🏆GitHub Trophies
+# 🏆GitHub Trophies:
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=omkarkulkarni2704" width="520" /></a>
 
 ---

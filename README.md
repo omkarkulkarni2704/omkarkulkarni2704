@@ -26,13 +26,19 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 
 
 # 📊 GitHub Stats:
-![omkarkulkarni2704's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkulkarni2704&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en&theme=dark&rank_icon=github" />
+
 ![omkarkulkarni2704's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=dark&hide_border=false)
 
 
 # 🏆GitHub Trophies:
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=omkarkulkarni2704" width="520" /></a>
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 ---
 

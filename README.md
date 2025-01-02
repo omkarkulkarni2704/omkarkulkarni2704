@@ -35,7 +35,7 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=omkarkulkarni2704" width="520" /></a>
 
 
-# ✍️Random Dev Quotes:
+# ✍️Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 

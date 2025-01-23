@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
 
 
-Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from **Pune University**. I am proficient in Java, SQL, and Python, with a solid foundation in Spring Boot, and Data Structures & Algorithms.
+Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from **Pune University**. I am proficient in Java, Python, SQL and have a strong foundation in OOPs, DSA and a good understanding of Spring Boot and REST API and also have a basic knowledge of PHP and .NET.  
   
 - 🔭 SDE Intern at **Exposys Data Labs**
 

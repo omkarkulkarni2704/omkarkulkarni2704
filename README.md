@@ -14,7 +14,7 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
   
 - 🔭 SDE Intern at **Exposys Data Labs**
 
-- 🌱 I’m currently learning **Spring Boot, PHP, and .NET**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **omkarkulkarni2704@gmail.com**
 

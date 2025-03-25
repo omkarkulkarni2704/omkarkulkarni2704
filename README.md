@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/)
 [![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_) 
-<img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704"/> 
+<img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20views&color=0e75b6&style=flat" alt="omkarkulkarni2704 profile views" />
 
 
 Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from Pune University with a strong foundation in Java, SQL, Python, and Data Structures & Algorithms (DSA). I’m proficient in RESTful APIs, Spring Boot, Hibernate, and microservices architecture. Additionally, I’m exploring PHP and .NET to broaden my technical expertise.  

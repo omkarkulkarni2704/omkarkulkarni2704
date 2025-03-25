@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from Pune University with a strong foundation in **Java**, **SQL**, **Python**, and **Data Structures & Algorithms (DSA)**. I’m proficient in **RESTful APIs**, **Spring Boot**, **Hibernate**, and **microservices architecture**. Additionally, I’m exploring **PHP** and **.NET** to broaden my technical expertise.  
+Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from **Pune University** with a strong foundation in **Java**, **SQL**, **Python**, and **Data Structures & Algorithms (DSA)**. I’m proficient in **RESTful APIs**, **Spring Boot**, **Hibernate**, and **microservices architecture**. Additionally, I’m exploring **PHP** and **.NET** to broaden my technical expertise.  
 
 - 🔭 **SDE Intern at Exposys Data Labs**  
 - 🌱 I’m currently learning **Spring Boot**  

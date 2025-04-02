@@ -1,23 +1,12 @@
-<h1 align="center">Omkar Kulkarni</h1>  
+# 💫 About Me  
 
-<p align="center">
-  <a href="https://github.com/omkarkulkarni2704">
-    <img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg">
-  </a>
-  <a href="https://x.com/omkarkulkarni_">
-    <img src="https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat">
-</p>  
+[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
+[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_) 
+![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)
 
----
 
-## 👋 About Me  
-
-Hi! I'm **Omkar Kulkarni,** a passionate **Software Developer** specializing in **backend development.** Proficient in **Java, Python, and SQL,** I have hands-on experience with **Spring Boot, REST APIs, Microservices, and Hibernate.** I actively contribute to **open-source projects** on GitHub and continuously explore emerging technologies to refine my skills.
+**Passionate Software Developer** specializing in **backend development.** Proficient in **Java, Python, and SQL,** I have hands-on experience with **Spring Boot, REST APIs, Microservices, and Hibernate.** I actively contribute to **open-source projects** and explore emerging technologies to refine my skills.  
 
 💡 **Key Highlights:**  
 - 🔥 **Previously:** SDE Intern at Exposys Data Labs  

@@ -1,21 +1,21 @@
-# 💫 About Me  
+# 🚀 Omkar Kulkarni 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
-[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_) 
+[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_)  
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)
 
+## 👋 About Me  
+Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise in **Java, Python, and SQL**. I specialize in **backend development**, with hands-on experience in **Spring Boot, REST APIs, Microservices, and Hibernate**. I actively contribute to **open-source projects** on GitHub and continuously explore **new technologies** to enhance my skills. 
 
-Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an engineering graduate from **Pune University** with a strong foundation in **Java**, **SQL**, **Python**, and **Data Structures & Algorithms (DSA)**. I’m proficient in **RESTful APIs**, **Spring Boot**, **Hibernate**, and **microservices architecture**. Additionally, I’m exploring **PHP** and **.NET** to broaden my technical expertise.  
-
-- 🔭 **SDE Intern at Exposys Data Labs**  
-- 🌱 I’m currently learning **Spring Boot**  
-- 📫 How to reach me: **omkarkulkarni2704@gmail.com**  
+- 🔭 **Previously:** SDE Intern at Exposys Data Labs  
+- 🌱 **Currently Learning:** Spring Boot & System Design  
+- 📫 **Reach me at:** omkarkulkarni2704@gmail.com  
 - ⚡ **Fun Fact:** Java was named while James Gosling was enjoying a cup of coffee.  
 
 ---
 
-# 💻 Tech Stack  
+## 💻 Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,18 +33,34 @@ Hi! 👋 I am [**Omkar Kulkarni**](https://github.com/omkarkulkarni2704), an eng
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+---
+
+## 📊 GitHub Stats  
+
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=dark)  
 
 ---
 
-# 📊 GitHub Stats  
+## 🏆 GitHub Achievements  
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&locale=en&theme=dark&rank_icon=github" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkarkulkarni2704&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-# ✍️ Random Dev Quote  
+## ✍️ Random Dev Quote  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🤝 Let's Connect  
+If you're hiring or want to collaborate on projects, feel free to connect with me!  
+📧 **Email:** omkarkulkarni2704@gmail.com  
+📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
+🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
+
+
+
 
 
 

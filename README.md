@@ -1,4 +1,10 @@
 ## 🌟 **About Me**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
+[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_) 
+![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)
+
 I am an Aspiring Software Developer passionate about building scalable, efficient, and maintainable applications using Java, Spring Boot, and Microservices. I enjoy solving real-world challenges, contributing to open-source projects, and continuously expanding my technical expertise.
 
 - ⚙️ **Technologies:** Java, Python, Spring Boot, Hibernate, MySQL, Docker, AWS  

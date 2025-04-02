@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Omkar Kulkarni 👋</h1>
-<h3 align="center">🚀 Passionate Software Developer | Backend Specialist | Open-Source Contributor</h3>
+<h1 align="center">  
+  👋 Hey there, I'm Omkar Kulkarni!  
+</h1>
 
 <p align="center">
   <a href="https://github.com/omkarkulkarni2704">
@@ -15,32 +16,27 @@
 
 ## 🌟 About Me  
 
-- 🎯 **Aspiring Software Developer** specializing in **backend development.**  
-- 💻 Skilled in **Java, Python, SQL, REST APIs, Spring Boot, Hibernate, and Microservices.**  
-- 🚀 **Open-Source Contributor:** Actively improving projects on GitHub.  
-- 🎓 **Graduate from Pune University** with expertise in **backend systems.**  
-- 📚 Currently Learning: **System Design, Cloud Technologies, and Kubernetes.**  
-- 🎯 Open to: **Software Developer Roles, Open-Source Collaboration, and Mentorship Opportunities.**  
-- 📫 **Reach me at:** omkarkulkarni2704@gmail.com  
+**Passionate Software Developer** specializing in **backend development.** Proficient in **Java, Python, and SQL,** I have hands-on experience with **Spring Boot, REST APIs, Microservices, and Hibernate.** I actively contribute to **open-source projects** and explore emerging technologies to refine my skills.  
+
+💡 **Key Highlights:**  
+- 🔥 **Previously:** SDE Intern at Exposys Data Labs  
+- 🌱 **Currently Learning:** Spring Boot & System Design  
+- 🏆 **Open-Source Contributor:** Actively pushing code to GitHub  
+- 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
+- ⚡ **Fun Fact:** Java was named while James Gosling was enjoying a cup of coffee! ☕  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🚀 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Tech Stack  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ Backend Technologies  
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-%23232F3E.svg?style=for-the-badge&logo=swagger&logoColor=white) 
-
-### 🛠️ DevOps & Tools  
+![REST APIs](https://img.shields.io/badge/REST_APIs-%23232F3E.svg?style=for-the-badge&logo=swagger&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -73,9 +69,7 @@
 
 ## 🎯 Random Dev Quote  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Omkar Kulkarni</h1>  
+<h1 align="center">Omkar Kulkarni</h1>  
 
 <p align="center">
   <a href="https://github.com/omkarkulkarni2704">

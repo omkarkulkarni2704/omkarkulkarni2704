@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Omkar Kulkarni 👋</h1>
-<h3 align="center">🚀 Passionate Software Developer | Open-Source Contributor</h3>
+<h3 align="center">🚀 Passionate Software Developer | Backend Specialist | Open-Source Contributor</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
-[![X](https://img.shields.io/badge/X-%40omkarkulkarni-222222.svg)](https://x.com/omkarkulkarni_)  
-![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://github.com/omkarkulkarni2704">
+    <img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -56,7 +61,7 @@
 
 ## 🎯 Featured Projects  
 
-### 📌 **[BookSphere 📚](https://github.com/omkarkulkarni2704/BookSphere)**  
+### 📌 **[NovelNest 📚](https://github.com/omkarkulkarni2704/NovelNest)**  
 🔹 **E-commerce platform for books** 📖 built with **Spring Boot, MySQL, and Hibernate.**  
 🔹 Features: **Admin dashboard, book management, order tracking.**  
 
@@ -74,13 +79,14 @@
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Let's Connect!  
 
 🚀 **I’m open to exciting opportunities, collaborations, and discussions.** Feel free to reach out!
 
 📧 **Email:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
 📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
-🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
+🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704) 
+
 ---
 
 🚀 **Thanks for stopping by! Keep coding and innovating!** 😊🔥  

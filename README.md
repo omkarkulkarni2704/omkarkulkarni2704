@@ -15,7 +15,8 @@
 ---
 
 ## 🌟 **About Me**
-Aspiring **Software Developer** with 6+ months of internship experience. Proficient in **Java, Python, SQL, and Data Structures & Algorithms (DSA).** Experienced in building scalable applications with **Spring Boot, REST APIs, Microservices, and Hibernate.** Actively contributing to **open-source projects** on GitHub, committed to continuous learning and staying updated with emerging technologies.
+Aspiring **Software Developer** with expertise in **Java, Python, SQL, and Data Structures & Algorithms (DSA).** Experienced in **Spring Boot, REST APIs, Microservices, and Hibernate.** Passionate about **open-source contributions** and committed to continuous learning while staying updated with emerging technologies.
+
 
 💡 **Key Highlights:**  
 - 🌱 **Currently Learning:** Spring Boot & System Design  

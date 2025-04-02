@@ -47,7 +47,7 @@
 ## 🎯 Featured Projects  
 
 ### 📌 **[Novel Nest 📚](https://github.com/omkarkulkarni2704/NovelNest)**  
-🔹 **E-commerce platform for books** 📖 built with **Spring Boot, MySQL, and Hibernate.**  
+🔹 **E-commerce platform for books** 📖 built with **Java, Spring Boot, MySQL, and Spring Data JPA.**  
 🔹 Features: **Admin dashboard, book management, order tracking.**  
 
 ### 📌 **[Trivia Quest 🏆](https://github.com/omkarkulkarni2704/TriviaQuest)**  

@@ -42,11 +42,12 @@ Aspiring **Software Developer** with expertise in **Java, Python, SQL, and Data 
 ---
 
 ## 📬 Let's Connect!  
-🚀 Open to exciting career opportunities, collaborations, and tech discussions. Feel free to reach out!  
+💼 Seeking Software Developer opportunities | Open to collaborations & tech discussions | Let’s connect! 🚀  
 
 📧 **Email:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
 📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
 🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
+
 
 
 ---

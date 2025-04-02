@@ -12,7 +12,8 @@ I am a **Software Developer** passionate about building scalable, efficient, and
 ---
 
 ## 📼 **Let's Connect!**  
-💼 **Looking for exciting Software Developer opportunities to build impactful solutions!** 🤝 **Love collaborating on open-source and discussing innovative tech solutions!**  
+💼 **Looking for exciting Software Developer opportunities to build impactful solutions! And Love collaborating on open-source and discussing innovative tech solutions!**
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 

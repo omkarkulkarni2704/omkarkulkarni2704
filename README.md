@@ -22,28 +22,39 @@ Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise i
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=postman&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+---
+
+## 🚀 Projects  
+
+### 📚 **NovelNest (E-commerce for Books)**  
+- Developed an **e-commerce platform** for book lovers, allowing users to browse, purchase, and manage books.  
+- Features include **admin book management, user registration, and order history tracking**.  
+- **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, Bootstrap  
+- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/BookSphere)
+
+### 🎯 **Trivia Quest (Quiz Application)**  
+- Created an interactive **quiz platform** with multiple-choice questions and instant score feedback.  
+- Enhanced **user engagement** with answer suggestions and a dynamic quiz interface.  
+- **Tech Stack:** JavaScript, HTML, CSS, Bootstrap  
+- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/TriviaQuest)
+
+### 🚗 **Drowsiness Detection System**  
+- Developed a **real-time driver drowsiness detection system** to improve road safety.  
+- Implemented **face detection algorithms** to monitor drivers and provide alerts.  
+- **Tech Stack:** Python, OpenCV  
+- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/DrowsinessDetection)
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=dark)  
-
----
-
-## 🏆 GitHub Achievements  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkarkulkarni2704&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -57,7 +68,8 @@ Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise i
 If you're hiring or want to collaborate on projects, feel free to connect with me!  
 📧 **Email:** omkarkulkarni2704@gmail.com  
 📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
-🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
+🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)
+
 
 
 

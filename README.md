@@ -15,8 +15,8 @@ Software Developer passionate about building scalable and efficient applications
 ---
 
 🔗 **Projects:**  
-- 📚 [**Novel Nest**](https://github.com/yourusername/NovelNest) - An e-commerce platform for books.  
-- 🎯 [**Trivia Quest**](https://github.com/yourusername/trivia-app) - An interactive quiz app with real-time score feedback.  
+- 📚 [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest) - An e-commerce platform for books.  
+- 🎯 [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest) - An interactive quiz app with real-time score feedback.  
 
 ---
 

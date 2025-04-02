@@ -14,21 +14,17 @@
 
 ---
 
-## 🌟 About Me  
-
-**Passionate Software Developer** specializing in **backend development.** Proficient in **Java, Python, and SQL,** I have hands-on experience with **Spring Boot, REST APIs, Microservices, and Hibernate.** I actively contribute to **open-source projects** and explore emerging technologies to refine my skills.  
-
-💡 **Key Highlights:**  
-- 🔥 **Previously:** SDE Intern at Exposys Data Labs  
-- 🌱 **Currently Learning:** Spring Boot & System Design  
-- 🏆 **Open-Source Contributor:** Actively pushing code to GitHub  
-- 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
-- ⚡ **Fun Fact:** Java was named while James Gosling was enjoying a cup of coffee! ☕  
+## 🌟 **About Me**
+👨‍💻 Passionate **Software Developer** specializing in **backend development.**  
+💡 Skilled in **Java, Python, and SQL**, with hands-on experience in **Spring Boot, REST APIs, Microservices, and Hibernate.**  
+🌱 **Currently Learning:** System Design & Advanced Spring Boot.  
+🏆 **Open-Source Contributor:** Actively pushing code to GitHub.  
+📧 **Reach me at:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
+⚡ **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*  
 
 ---
 
 ## 💻 Tech Stack  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -45,7 +41,6 @@
 ---
 
 ## 🎯 Featured Projects  
-
 ### 📌 **[Novel Nest 📚](https://github.com/omkarkulkarni2704/NovelNest)**  
 🔹 **E-commerce platform for books** 📖 built with **Java, Spring Boot, MySQL, and Spring Data JPA.**  
 🔹 Features: **Admin dashboard, book management, order tracking.**  
@@ -57,13 +52,11 @@
 ---
 
 ## 🎯 Random Dev Quote  
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
 
 ## 📬 Let's Connect!  
-
 🚀 **I’m open to exciting opportunities, collaborations, and discussions.** Feel free to reach out!
 
 📧 **Email:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
@@ -72,7 +65,7 @@
 
 ---
 
-🚀 **Thanks for stopping by! Keep coding and innovating!** 😊🔥  
+✨ _Thanks for stopping by! Keep coding and innovating! 😊🔥_
 
 
 

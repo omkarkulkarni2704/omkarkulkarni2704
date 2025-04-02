@@ -15,12 +15,14 @@
 ---
 
 ## 🌟 **About Me**
-👨‍💻 Passionate **Software Developer** specializing in **backend development.**  
-💡 Skilled in **Java, Python, and SQL**, with hands-on experience in **Spring Boot, REST APIs, Microservices, and Hibernate.**  
-🌱 **Currently Learning:** System Design & Advanced Spring Boot.  
-🏆 **Open-Source Contributor:** Actively pushing code to GitHub.  
-📧 **Reach me at:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
-⚡ **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*  
+Aspiring **Software Developer** with 6+ months of internship experience. Proficient in **Java, Python, SQL, DSA** Familiar with **Spring Boot, REST APIs, Microservices, and Hibernate.** Actively contributing to **open-source projects** on GitHub, committed to continuous learning and staying updated with emerging technologies.
+
+💡 **Key Highlights:**  
+- 🔥 **Experience:** SDE Intern at Exposys Data Labs, ESD Trainee at Zensar Technologies 
+- 🌱 **Currently Learning:** Spring Boot & System Design  
+- 🏆 **Open-Source Contributor:** Actively pushing code to GitHub  
+- 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
+- ⚡ **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*
 
 ---
 

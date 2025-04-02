@@ -8,9 +8,9 @@
 ## 👋 About Me  
 Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise in **Java, Python, and SQL**. I specialize in **backend development**, with hands-on experience in **Spring Boot, REST APIs, Microservices, and Hibernate**. I actively contribute to **open-source projects** on GitHub and continuously explore **new technologies** to enhance my skills. 
 
-- 🔭 **Previously:** SDE Intern at Exposys Data Labs  
+- 🔥 **Previously:** SDE Intern at Exposys Data Labs  
 - 🌱 **Currently Learning:** Spring Boot & System Design  
-- 📫 **Reach me at:** omkarkulkarni2704@gmail.com  
+- 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
 - ⚡ **Fun Fact:** Java was named while James Gosling was enjoying a cup of coffee.  
 
 ---
@@ -27,28 +27,9 @@ Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-## 🚀 Projects  
-
-### 📚 **NovelNest (E-commerce for Books)**  
-- Developed an **e-commerce platform** for book lovers, allowing users to browse, purchase, and manage books.  
-- Features include **admin book management, user registration, and order history tracking**.  
-- **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, Bootstrap  
-- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/BookSphere)
-
-### 🎯 **Trivia Quest (Quiz Application)**  
-- Created an interactive **quiz platform** with multiple-choice questions and instant score feedback.  
-- Enhanced **user engagement** with answer suggestions and a dynamic quiz interface.  
-- **Tech Stack:** JavaScript, HTML, CSS, Bootstrap  
-- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/TriviaQuest)
-
-### 🚗 **Drowsiness Detection System**  
-- Developed a **real-time driver drowsiness detection system** to improve road safety.  
-- Implemented **face detection algorithms** to monitor drivers and provide alerts.  
-- **Tech Stack:** Python, OpenCV  
-- 🔗 [GitHub Repository](https://github.com/omkarkulkarni2704/DrowsinessDetection)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 

@@ -1,6 +1,6 @@
 ## 🌟 About Me  
 Software Developer passionate about building scalable and efficient applications using Java, Spring Boot, and Microservices. Always eager to learn, contribute to open-source, and solve real-world challenges with clean, maintainable code.
-- 💻 **Software Developer** passionate about building scalable and efficient applications.  
+
 - 🚀 **Experienced in:** Java, Spring Boot, REST APIs, Microservices, Hibernate, and MySQL.  
 - ⚡ **Tech Stack:** Java, Spring Boot, Hibernate, Microservices, MySQL, Docker, AWS.  
 - 🏆 **Open-Source Contributor:** Actively contributing to open-source projects.  
@@ -16,20 +16,6 @@ Software Developer passionate about building scalable and efficient applications
 
 ---
 
-## 💻 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/RESTful_APIs-%23232F3E.svg?style=for-the-badge&logo=swagger&logoColor=white">  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-</p>
-
----
 
 ## 📬 Let's Connect!  
 - 💼 **Looking for exciting Software Developer opportunities to build impactful solutions!**  

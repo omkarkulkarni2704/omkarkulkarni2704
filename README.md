@@ -17,7 +17,7 @@
 
 ## 👋 About Me  
 
-Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise in **Java, Python, and SQL**. I specialize in **backend development**, with hands-on experience in **Spring Boot, REST APIs, Microservices, and Hibernate**. I actively contribute to **open-source projects** on GitHub and continuously explore **new technologies** to enhance my skills.
+Hi! I'm **Omkar Kulkarni,** a passionate **Software Developer** specializing in **backend development.** Proficient in **Java, Python, and SQL,** I have hands-on experience with **Spring Boot, REST APIs, Microservices, and Hibernate.** I actively contribute to **open-source projects** on GitHub and continuously explore emerging technologies to refine my skills.
 
 💡 **Key Highlights:**  
 - 🔥 **Previously:** SDE Intern at Exposys Data Labs  
@@ -58,12 +58,15 @@ Hi! I'm **Omkar Kulkarni**, a passionate **Software Developer** with expertise i
 
 ---
 
-## 🤝 Let's Connect  
+If you're hiring or want to collaborate on projects, feel free to connect with me!  
 
 📧 **Email:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
 📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
 🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
 
+---
+
+🚀 **Thanks for stopping by! Happy Coding!** 😊🔥  
 ---
 
 

@@ -1,28 +1,18 @@
-<h1 align="center">  
-  👋 Hey there, I'm Omkar Kulkarni!  
-</h1>
+## 🌟 About Me  
+Software Developer passionate about building scalable and efficient applications using Java, Spring Boot, and Microservices. Always eager to learn, contribute to open-source, and solve real-world challenges with clean, maintainable code.
+- 💻 **Software Developer** passionate about building scalable and efficient applications.  
+- 🚀 **Experienced in:** Java, Spring Boot, REST APIs, Microservices, Hibernate, and MySQL.  
+- ⚡ **Tech Stack:** Java, Spring Boot, Hibernate, Microservices, MySQL, Docker, AWS.  
+- 🏆 **Open-Source Contributor:** Actively contributing to open-source projects.  
+- 🌱 **Currently Exploring:** Advanced Spring Boot & System Design.
+- 🎓 **Certifications:** Java Programming by HackerRank | Python for Data Science by IBM  
+- 📧 **Reach me at:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
+- 🎯 **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*  
 
-<p align="center">
-  <a href="https://github.com/omkarkulkarni2704">
-    <img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+🔗 **Projects:**  
+- 📚 [**Novel Nest**](https://github.com/yourusername/NovelNest) - An e-commerce platform for books.  
+- 🎯 [**Trivia Quest**](https://github.com/yourusername/trivia-app) - An interactive quiz app with real-time score feedback.  
 
----
-
-## 🌟 **About Me**
-Aspiring **Software Developer** with expertise in **Java, Python, SQL, and Data Structures & Algorithms (DSA).** Experienced in **Spring Boot, REST APIs, Microservices, and Hibernate.** Passionate about **open-source contributions** and committed to continuous learning while staying updated with emerging technologies.
-
-
-💡 **Key Highlights:**  
-- 🌱 **Currently Learning:** Spring Boot & System Design  
-- 🏆 **Open-Source Contributor:** Enjoy contributing to open-source projects  
-- 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
-- ⚡ **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*
 
 ---
 
@@ -33,7 +23,7 @@ Aspiring **Software Developer** with expertise in **Java, Python, SQL, and Data 
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_APIs-%23232F3E.svg?style=for-the-badge&logo=swagger&logoColor=white">  
+  <img src="https://img.shields.io/badge/RESTful_APIs-%23232F3E.svg?style=for-the-badge&logo=swagger&logoColor=white">  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -42,17 +32,16 @@ Aspiring **Software Developer** with expertise in **Java, Python, SQL, and Data 
 ---
 
 ## 📬 Let's Connect!  
-💼 Seeking Software Developer opportunities | Open to collaborations & tech discussions | Let’s connect! 🚀  
+- 💼 **Looking for exciting Software Developer opportunities to build impactful solutions!**  
+- 🤝 **Love collaborating on open-source and discussing innovative tech solutions!**  
 
 📧 **Email:** [omkarkulkarni2704@gmail.com](mailto:omkarkulkarni2704@gmail.com)  
 📌 **LinkedIn:** [Omkar Kulkarni](https://www.linkedin.com/in/omkarkulkarni-dev/)  
 🌍 **GitHub:** [@omkarkulkarni2704](https://github.com/omkarkulkarni2704)  
 
-
-
 ---
 
-✨ _Thanks for stopping by! Keep coding and innovating! 😊🔥_
+✨ _Thanks for stopping by! Keep coding and innovating! 😊🔥_  
 
 
 

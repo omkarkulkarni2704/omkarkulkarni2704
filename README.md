@@ -15,12 +15,11 @@
 ---
 
 ## 🌟 **About Me**
-Aspiring **Software Developer** with 6+ months of internship experience. Proficient in **Java, Python, SQL, DSA** Familiar with **Spring Boot, REST APIs, Microservices, and Hibernate.** Actively contributing to **open-source projects** on GitHub, committed to continuous learning and staying updated with emerging technologies.
+Aspiring **Software Developer** with 6+ months of internship experience. Proficient in **Java, Python, SQL, and Data Structures & Algorithms (DSA).** Experienced in building scalable applications with **Spring Boot, REST APIs, Microservices, and Hibernate.** Actively contributing to **open-source projects** on GitHub, committed to continuous learning and staying updated with emerging technologies.
 
 💡 **Key Highlights:**  
-- 🔥 **Experience:** SDE Intern at Exposys Data Labs, ESD Trainee at Zensar Technologies 
 - 🌱 **Currently Learning:** Spring Boot & System Design  
-- 🏆 **Open-Source Contributor:** Actively pushing code to GitHub  
+- 🏆 **Open-Source Contributor:** Enjoy contributing to open-source projects  
 - 📧 **Reach me at:** omkarkulkarni2704@gmail.com  
 - ⚡ **Fun Fact:** *Java was named while James Gosling was enjoying a cup of coffee! ☕*
 
@@ -38,23 +37,6 @@ Aspiring **Software Developer** with 6+ months of internship experience. Profici
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
-
-
----
-
-## 🎯 Featured Projects  
-### 📌 **[Novel Nest 📚](https://github.com/omkarkulkarni2704/NovelNest)**  
-🔹 **E-commerce platform for books** 📖 built with **Java, Spring Boot, MySQL, and Spring Data JPA.**  
-🔹 Features: **Admin dashboard, book management, order tracking.**  
-
-### 📌 **[Trivia Quest 🏆](https://github.com/omkarkulkarni2704/TriviaQuest)**  
-🔹 **Interactive quiz application** 🎮 built with **JavaScript and Bootstrap.**  
-🔹 Features: **Multiple-choice questions, score tracking, instant feedback.**  
-
----
-
-## 🎯 Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
 

@@ -1,19 +1,22 @@
-## 🌟 **About Me**  
+## 🌟 About Me
 
-I am a **Software Developer** passionate about building scalable, efficient, and maintainable applications using **Java, Spring Boot, and Microservices**. I enjoy solving real-world challenges, contributing to open-source projects, and continuously expanding my technical expertise.  
+I'm a **Software Developer** passionate about building scalable, efficient, and maintainable applications using **Java, Spring Boot, and Microservices**. I love solving real-world challenges, contributing to open-source projects, and continuously growing my technical expertise.
 
-- ⚙️ **Technologies:** Java, Python, Spring Boot, Hibernate, MySQL, Docker, AWS  
-- 🌟 **CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, DBMS  
+- ⚙️ **Tech Stack:** Java, Python, Spring Boot, Hibernate, MySQL, Docker, AWS  
+- 📚 **CS Fundamentals:** Data Structures & Algorithms, OOPs, DBMS  
 - 🛠️ **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA  
-- 🏆 **Open-Source Contributor:** Actively contributing to open-source projects  
-- 🌱 **Currently Exploring:** Advanced Spring Boot & System Design  
-- 🎓 **Certifications:** Java Programming by **HackerRank** | Python for Data Science by **IBM**  
+- 🏆 **Open-Source Contributor:** Actively contributing to GitHub projects  
+- 🌱 **Currently Exploring:** Advanced Spring Boot, System Design, and Backend Optimization  
+- 🎓 **Certifications:**  
+   - Java Programming – *HackerRank*  
+   - Python for Data Science – *IBM*
 
 ---
 
-## 📼 **Let's Connect!**  
-💼 **Looking for exciting Software Developer opportunities to build impactful solutions! And Love collaborating on open-source and discussing innovative tech solutions!**
+## 📼 Let's Connect!
 
+💼 **Actively seeking Software Developer opportunities to build impactful solutions.**  
+🤝 Passionate about open-source, clean code, and collaborating on innovative tech!
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
@@ -22,7 +25,8 @@ I am a **Software Developer** passionate about building scalable, efficient, and
 
 ---
 
-🌟 _Thanks for stopping by! Keep coding and innovating! 😊🔥_  
+🌟 _Thanks for visiting! Keep building, keep learning, and keep innovating! 😊🔥_
+
  
 
 

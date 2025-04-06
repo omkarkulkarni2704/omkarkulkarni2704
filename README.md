@@ -1,13 +1,14 @@
-## 🌟 About Me
+## 🌟 About Me  
+I'm a **Software Developer** passionate about building **scalable, efficient, and maintainable applications** using **Java, Spring Boot, and Microservices**. I love solving real-world challenges, contributing to open-source projects, and continuously expanding my technical expertise.
 
-I'm a **Software Developer** passionate about building scalable, efficient, and maintainable applications using **Java, Spring Boot, and Microservices**. I love solving real-world challenges, contributing to open-source projects, and continuously growing my technical expertise.
+---
 
-### 🔧 Skills Highlights
+### 🔧 Skills Highlights  
 - ⚙️ **Tech Stack:** Java, Python, Spring Boot, Hibernate, MySQL, Docker, AWS  
-- 📚 **CS Fundamentals:** Data Structures & Algorithms, OOPs, DBMS  
+- 📚 **Core CS Concepts:** Data Structures & Algorithms, OOPs, DBMS  
 - 🛠️ **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA  
-- 🏆 **Open-Source Contributor:** Actively contributing to GitHub projects  
-- 🌱 **Currently Exploring:** Advanced Spring Boot, System Design, and Backend Optimization  
+- 🏆 **Open-Source Contributor:** Actively contributing to meaningful GitHub projects  
+- 🌱 **Currently Exploring:** Advanced Spring Boot, System Design, Backend Optimization  
 - 🎓 **Certifications:**  
    - Java Programming – *HackerRank*  
    - Python for Data Science – *IBM*

@@ -2,6 +2,7 @@
 
 I'm a **Software Developer** passionate about building scalable, efficient, and maintainable applications using **Java, Spring Boot, and Microservices**. I love solving real-world challenges, contributing to open-source projects, and continuously growing my technical expertise.
 
+### 🔧 Skills Highlights
 - ⚙️ **Tech Stack:** Java, Python, Spring Boot, Hibernate, MySQL, Docker, AWS  
 - 📚 **CS Fundamentals:** Data Structures & Algorithms, OOPs, DBMS  
 - 🛠️ **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA  

@@ -11,11 +11,8 @@ I'm a **Aspiring Software Developer** passionate about building **scalable, effi
 - 🏆 **Open-Source Contributor:** Actively contributing to open-source projects on GitHub  
 - 🌱 **Currently Exploring:** System Design, Advanced Spring Boot  
 - 🎓 **Certifications:**  
-   - Java Programming – *HackerRank*  
-   - Python for Data Science – *IBM*  
-   - Object-Oriented Programming with Java – *Coursera*  
-   - Accenture Strategy Consulting Program – *Forage*  
-
+   - Java Programming – **HackerRank** 
+   - Python for Data Science – **IBM**  
 
 ---
 

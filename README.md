@@ -19,7 +19,7 @@ I'm a **Aspiring Software Developer** passionate about building **scalable, effi
 💼 **Actively seeking Software Developer opportunities to build impactful solutions.**  
 🤝 Passionate about open-source, clean code, and collaborating on innovative tech!
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni-239a3b.svg)](https://github.com/omkarkulkarni2704) 
+[![GitHub](https://img.shields.io/badge/GitHub-%40omkarkulkarni2704-239a3b.svg)](https://github.com/omkarkulkarni2704) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg)](https://www.linkedin.com/in/omkarkulkarni-dev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:omkarkulkarni2704@gmail.com) 
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat)  

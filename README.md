@@ -2,7 +2,7 @@
 I'm a **Aspiring Software Developer** passionate about building **scalable, efficient, and maintainable applications** using **Java, Spring Boot, and Microservices**. I love solving real-world challenges, contributing to open-source projects, and continuously expanding my technical expertise.
     
 ---
-
+                       
 ## 🔧🛠️ Skills & Technologies  
 
 - ⚙️ **Backend:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Maven, RESTful APIs

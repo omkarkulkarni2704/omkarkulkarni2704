@@ -5,7 +5,7 @@ I'm a **Aspiring Software Developer** passionate about building **scalable, effi
                             
 ## 🔧🛠️ Skills & Technologies  
 
-- ⚙️ **Backend:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, MySQL, Maven, RESTful APIs
+- ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, Maven, RESTful APIs
 - 🎨 **Frontend(Basic):** HTML, CSS, JavaScript, Bootstrap  
 - 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite(STS), VS Code, Postman
 - 📚 **Core CS Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS 

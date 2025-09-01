@@ -3,10 +3,10 @@ I love solving real-world challenges, contributing to open-source projects, and 
     
 ---                      
                             
-## 🔧🛠️ Skills & Technologies  
+## 🔧🛠️ Skills & Technologies        
 
 - ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, Maven, RESTful APIs
-- 🎨 **Frontend(Basic):** HTML, CSS, JavaScript, Bootstrap  
+- 🎨 **Frontend(Basic):** HTML, CSS, JavaScript, Bootstrap   
 - 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite(STS), VS Code, Postman
 - 📚 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS 
 - 🏆 **Open-Source Contributor:** Actively contributing to open-source projects on GitHub  

@@ -7,6 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="typing" />
 </p>
 
+<!-- Connect With Me Section at the Top -->
+<p align="center">
+  <a href="https://github.com/omkarkulkarni2704"><img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni2704-239a3b.svg" /></a>
+  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/"><img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" /></a>
+  <a href="mailto:omkarkulkarni2704@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -60,18 +68,6 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/omkarkulkarni2704"><img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni2704-239a3b.svg" /></a>
-  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/"><img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" /></a>
-  <a href="mailto:omkarkulkarni2704@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---

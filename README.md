@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise. My mission: Build impactful solutions, empower communities, and share knowledge.
+Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise.
 
 - 💼 **Actively seeking Software Developer opportunities**
 - 🏆 **Open-Source Contributor:** Empowering developer communities

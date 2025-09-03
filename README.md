@@ -13,6 +13,9 @@
 
 Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise. My mission: Build impactful solutions, empower communities, and share knowledge.
 
+- 💼 **Actively seeking Software Developer opportunities**
+- 🏆 **Open-Source Contributor:** Empowering developer communities
+- 🧠 **Currently mastering:** System Design, Advanced Spring Boot, Scalable Architectures
 - 💡 **Clean Code Advocate**
 - 🌱 **Upskilling in System Design & Advanced Spring Boot**
 - 🤝 Always open to collaboration and learning
@@ -49,11 +52,12 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />
 </p>
 
 ---
 
-## 📊 My GitHub Contributions
+## 📊 Contributions & Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=github-compact" alt="GitHub Activity Graph" />
@@ -61,10 +65,8 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 
 ---
 
-## 📼 Let's Connect!
 
-💼 **Actively seeking Software Developer opportunities to build impactful solutions.**  
-🤝 Passionate about open-source, clean code, and collaborating on innovative tech!
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/omkarkulkarni2704"><img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni2704-239a3b.svg" /></a>

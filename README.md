@@ -16,7 +16,6 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 - 💼 **Actively seeking Software Developer opportunities**
 - 🏆 **Open-Source Contributor:** Empowering developer communities
 - 🧠 **Currently mastering:** System Design, Advanced Spring Boot, Scalable Architectures
-- 💡 **Clean Code Advocate**
 - 🌱 **Upskilling in System Design & Advanced Spring Boot**
 - 🤝 Always open to collaboration and learning
 

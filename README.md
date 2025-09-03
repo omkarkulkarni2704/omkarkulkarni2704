@@ -1,17 +1,21 @@
-<!-- Omkar Kulkarni - Professional GitHub Profile README -->
+<!-- Omkar Kulkarni - 🚀 Software Developer & Open-Source Enthusiast -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&animation=fadeIn" alt="banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="typing" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I love solving real-world challenges, contributing to open-source projects, and continuously expanding my technical expertise.
+Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise. My mission: Build impactful solutions, empower communities, and share knowledge.
+
+- 💡 **Clean Code Advocate**
+- 🌱 **Upskilling in System Design & Advanced Spring Boot**
+- 🤝 Always open to collaboration and learning
 
 ---
 
@@ -22,28 +26,38 @@ I love solving real-world challenges, contributing to open-source projects, and 
 - 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite (STS), VS Code, Postman
 - 📚 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS
 - 🏆 **Open-Source Contributor:** Actively contributing to open-source projects on GitHub
-- 🌱 **Currently Exploring:** System Design, Advanced Spring Boot
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-<!-- Add your top projects below! -->
-- **Project 1:** Awesome Java REST API  
-  _Robust, scalable REST API built with Spring Boot and Hibernate. [GitHub Repo](#)_
-- **Project 2:** Open Source Contribution  
-  _Active participant in various open-source initiatives. [GitHub Repo](#)_
-- **Project 3:** Portfolio Website  
-  _Personal portfolio showcasing my work, built with HTML, CSS, JavaScript. [GitHub Repo](#)_
+- [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator)  
+  _A real-time event planning and attendee tracking system.<br>
+  <strong>Technologies:</strong> Java, Spring Boot, MySQL, REST APIs_
+
+- [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest)  
+  _An e-commerce platform for book enthusiasts.<br>
+  <strong>Technologies:</strong> Java, Spring Boot, MySQL, Maven_
+
+- [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest)  
+  _A website presenting a set of multiple choice questions for users to test their knowledge.<br>
+  <strong>Technologies:</strong> HTML, CSS, Bootstrap, JavaScript_
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📊 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -64,17 +78,3 @@ I love solving real-world challenges, contributing to open-source projects, and 
 <p align="center">
   🌟 _Thanks for visiting! Keep building, keep learning, and keep innovating! 😊🔥_
 </p>
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

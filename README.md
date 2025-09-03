@@ -73,5 +73,5 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 ---
 
 <p align="center">
-  🌟 _Thanks for visiting! Keep building, keep learning, and keep innovating! 😊🔥_
+  🌟 <em>Thanks for visiting! Let's build, innovate, and inspire together. 😊🔥<br>Follow for tech, code, and open-source adventures!</em>
 </p>

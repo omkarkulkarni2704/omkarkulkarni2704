@@ -1,11 +1,11 @@
 <!-- Omkar Kulkarni - 🚀 Software Developer & Open-Source Enthusiast -->
 
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&animation=fadeIn" alt="banner" />
-</p>
+</p> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="typing" />
-</p>
+</p> 
 
 <!-- Connect With Me Section at the Top -->
 <p align="center">
@@ -17,22 +17,22 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me 
 
 Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise.
 
 - 💼 **Actively seeking Software Developer opportunities**
-- 🏆 **Open-Source Contributor:** Empowering developer communities
+- 🏆 **Open-Source Contributor:** Empowering developer communities 
 - 🧠 **Currently mastering:** System Design, Advanced Spring Boot, Scalable Architectures
-- 🌱 **Upskilling in System Design & Advanced Spring Boot**
-- 🤝 Always open to collaboration and learning
+- 🌱 **Upskilling in System Design & Advanced Spring Boot** 
+- 🤝 Always open to collaboration and learning 
 
 ---
 
-## 🔧🛠️ Skills & Technologies
+## 🔧🛠️ Skills & Technologies 
 
-- ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, Maven, RESTful APIs
-- 🎨 **Frontend (Basic):** HTML, CSS, JavaScript, Bootstrap
+- ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, Maven, RESTful APIs 
+- 🎨 **Frontend (Basic):** HTML, CSS, JavaScript, Bootstrap 
 - 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite (STS), VS Code, Postman
 - 📚 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS
 - 🏆 **Open-Source Contributor:** Actively contributing to open-source projects on GitHub
@@ -54,7 +54,7 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
   <strong>Technologies:</strong> HTML, CSS, Bootstrap, JavaScript_
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats" />

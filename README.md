@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&animation=fadeIn" alt="banner" />
 </p>
-<p align="center">
+<p align="center">   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="typing" />
 </p>
 

@@ -57,17 +57,7 @@ Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />
-</p>
-
----
-
-## 📊 Contributions & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
 ---

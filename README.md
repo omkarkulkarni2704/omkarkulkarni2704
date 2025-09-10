@@ -22,15 +22,6 @@
 Hi! I’m Omkar Kulkarni, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously expanding my technical expertise.
 
 - 💼 **Actively seeking Software Developer opportunities**
-- 🏆 **Open-Source Contributor:** Empowering developer communities
-- 🧠 **Currently mastering:** System Design, Advanced Spring Boot
-- 🌱 **Upskilling in System Design & Advanced Spring Boot**
-- 🤝 Always open to collaboration and learning
-
----
-
-## 🔧🛠️ Skills & Technologies
-
 - ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, Maven, RESTful APIs
 - 🎨 **Frontend (Basic):** HTML, CSS, JavaScript, Bootstrap
 - 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite (STS), VS Code, Postman

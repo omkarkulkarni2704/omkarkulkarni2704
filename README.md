@@ -38,27 +38,20 @@ Hi! I’m **Omkar Kulkarni**, a passionate **Software Developer** who loves solv
 
 ## 🏆 Featured Projects
 
-📌 [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator)  
-_A real-time event planning and attendee tracking system._  
-**Tech:** Java, Spring Boot, MySQL, REST APIs  
+🔗 [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator) — Real-time event planning & attendee tracking system  
+**Tech:** Java | Spring Boot | MySQL | REST APIs  
 
-📌 [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest)  
-_An e-commerce platform for book lovers._  
-**Tech:** Java, Spring Boot, MySQL, Maven  
+🔗 [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest) — E-commerce platform for book lovers  
+**Tech:** Java | Spring Boot | MySQL | Maven  
 
-📌 [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest)  
-_A quiz website with multiple choice questions._  
-**Tech:** HTML, CSS, Bootstrap, JavaScript  
+🔗 [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest) — Quiz website with multiple choice questions  
+**Tech:** HTML | CSS | Bootstrap | JavaScript  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" /> </p>
 
 ---
 
@@ -71,7 +64,7 @@ _A quiz website with multiple choice questions._
 ---
 
 <p align="center">
-  🌟 <em>Thanks for visiting! Let’s build, innovate, and inspire together 🚀🔥</em><br/>
-  <em>Follow for tech, code, and open-source adventures!</em>
+✨ <em>“Code. Contribute. Create.”</em><br/>
+🌟 <em>Thanks for visiting! Let’s build, innovate, and inspire together 🚀🔥</em>
 </p>
 

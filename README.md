@@ -1,6 +1,6 @@
 <!-- Omkar Kulkarni - 🚀 Software Developer & Open-Source Enthusiast --> 
 
-<p align="center">
+<p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&animation=fadeIn" alt="banner" />
 </p>
 <p align="center">

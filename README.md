@@ -10,54 +10,77 @@
 
 ---
 
-## 🌟 About Me
+## 👋 About Me
 
-<!-- Connect With Me Section at the Top --> 
+✨ Hi, I'm **Omkar Kulkarni** — a passionate backend developer who loves crafting scalable solutions and building products people love.  
+🚀 I thrive in open-source, always push for clean code, and enjoy collaborating with talented minds.  
+💡 My philosophy: _"Code with purpose, learn with curiosity, build for impact!"_
 
-<p align="left"> <a href="https://www.linkedin.com/in/omkarkulkarni-dev/"><img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" /></a> 
-<a href="mailto:omkarkulkarni2704@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white" /></a> 
-<img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+- 💼 **Actively seeking Software Developer opportunities**
+- 🏆 **Open-Source Contributor:** Empowering developer communities
+- 🧠 **Currently mastering:** System Design, Advanced Spring Boot, Scalable Architectures
 
-Hi! I’m **Omkar Kulkarni**, a passionate **Software Developer** who loves solving real-world challenges, contributing to open-source, and continuously learning.
+---
 
-- 💼 Open to exciting **Software Developer roles** where I can contribute and grow  
-- ⚙️ **Backend:** Java, Spring Boot, Spring Frameworks, Hibernate, MySQL, RESTful APIs  
-- 🎨 **Frontend (Basic):** HTML, CSS, JavaScript, Bootstrap  
-- 🛠️ **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, Spring Tool Suite (STS), VS Code, Postman  
-- 📚 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS  
-- 🏆 **Open-Source Contributor:** Actively contributing to GitHub projects  
+## 🛠️ My Tech Toolbox
+
+<div align="center">
+
+| Backend                | Frontend                 | Tools & Platforms              | Core Concepts            |
+|------------------------|-------------------------|-------------------------------|-------------------------|
+| Java, Spring Boot      | HTML, CSS, JS, Bootstrap| Git, GitHub, IntelliJ IDEA, STS| Data Structures & Algo   |
+| Spring Frameworks      |                         | VS Code, Postman               | OOP, DBMS               |
+| Hibernate, MySQL, Maven|                         |                               |                         |
+
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
-🔗 [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator) — Real-time event planning & attendee tracking system.  
-**Tech:** Java, Spring Boot, MySQL, REST APIs  
+- [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator)  
+  _Real-time event planning and attendee tracking system.<br>
+  <strong>Tech:</strong> Java, Spring Boot, MySQL, REST APIs_
 
-🔗 [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest) — E-commerce platform for book lovers.  
-**Tech:** Java, Spring Boot, MySQL, Maven  
+- [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest)  
+  _E-commerce platform for book enthusiasts.<br>
+  <strong>Tech:</strong> Java, Spring Boot, MySQL, Maven_
 
-🔗 [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest) — Quiz website with multiple choice questions.  
-**Tech:** HTML, CSS, Bootstrap, JavaScript  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" /> </p>
+- [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest)  
+  _Web app with multiple-choice quizzes for fun and learning.<br>
+  <strong>Tech:</strong> HTML, CSS, Bootstrap, JavaScript_
 
 ---
 
-## 🏅 Achievements & Certifications
+## 📈 GitHub Stats
 
-- 🎓 **Certified in Object-Oriented Programming with Java (Coursera)**  
-- 🏆 **Open-source contributions** to multiple projects  
-- 📖 Constant learner of **DSA, System Design, and Cloud Basics**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarkulkarni2704&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkulkarni2704&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />
+</p>
+
+---
+
+## 📊 Contributions & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/omkarkulkarni2704"><img src="https://img.shields.io/badge/GitHub-%40omkarkulkarni2704-239a3b.svg" /></a>
+  <a href="https://www.linkedin.com/in/omkarkulkarni-dev/"><img src="https://img.shields.io/badge/LinkedIn-%40omkarkulkarni-0c66c3.svg" /></a>
+  <a href="mailto:omkarkulkarni2704@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omkarkulkarni2704&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 <p align="center">
-✨ <em>“Code. Contribute. Create.”</em><br/>
-🌟 <em>Thanks for visiting! Let’s build, innovate, and inspire together 🚀🔥</em>
+  🌟 <em>Thanks for visiting! Let's build, innovate, and inspire together. 😊🔥<br>Follow for tech, code, and open-source adventures!</em>
 </p>
-

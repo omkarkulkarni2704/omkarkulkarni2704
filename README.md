@@ -18,7 +18,7 @@
 
 - 💼 Actively seeking **Software Developer opportunities**  
 - 🏆 **Open-Source Contributor:** Empowering developer communities  
-- 🧠 **Currently mastering:** System Design, Advanced Spring Boot, Scalable Architectures  
+- 🧠 **Currently mastering:** System Design, Advanced Spring Boot
 
 ---
 

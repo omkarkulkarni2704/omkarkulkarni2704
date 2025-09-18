@@ -46,14 +46,9 @@
 
 ---
 
-## 📊 Contributions & Activity
-
+## 📊 Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkulkarni2704&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---

@@ -1,15 +1,3 @@
-<!-- Omkar Kulkarni - 🚀 Software Developer & Open-Source Enthusiast -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=180&section=header&text=Hi%20I'm%20Omkar%20Kulkarni%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Omkar Kulkarni Banner" />
-</p>   
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&lines=Passionate+Software+Developer;Open-Source+Contributor;Spring+Boot+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
-</p>
-
----
-
 ## 👋 About Me
 
 ✨ Hi, I'm **Omkar Kulkarni** — a passionate backend developer who loves crafting scalable solutions and building products people love.  

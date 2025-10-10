@@ -17,22 +17,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-- [**Smart Event Coordinator**](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator)  
-  📌 Real-time event planning and attendee tracking system.  
-  **Tech:** Java, Spring Boot, MySQL, REST APIs  
-
-- [**Novel Nest**](https://github.com/omkarkulkarni2704/NovelNest)  
-  📌 E-commerce platform for book enthusiasts.  
-  **Tech:** Java, Spring Boot, MySQL, Maven  
-
-- [**Trivia Quest**](https://github.com/omkarkulkarni2704/Trivia-Quest)  
-  📌 Web app with multiple-choice quizzes for fun and learning.  
-  **Tech:** HTML, CSS, Bootstrap, JavaScript  
-
----
-
 ## 📊 Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarkulkarni2704&theme=github_dark" alt="Profile Summary Card" />

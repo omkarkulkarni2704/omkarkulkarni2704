@@ -1,11 +1,6 @@
-## 👋 About Me
+# 👋 About Me
 
-✨ Hi, I'm **Omkar Kulkarni** — a passionate backend developer who loves crafting scalable solutions and building products people love.  
-🚀 I thrive in open-source, push for clean code, and enjoy collaborating with talented minds.  
-💡 My philosophy: _"Code with purpose, learn with curiosity, build for impact!"_
-- 💼 Actively seeking **Software Engineering opportunities**  
-- 🏆 **Open-Source Contributor:** Empowering developer communities  
-- 🧠 **Currently mastering:** System Design, Advanced Spring Boot
+Hi, I'm **Omkar Kulkarni**, a passionate **Backend Developer** who loves building scalable systems and meaningful digital products. I thrive in open-source development, write clean and maintainable code, and enjoy collaborating with creative, driven engineers. I'm actively seeking **Software Engineering opportunities** and contributing to **Open Source**, empowering developer communities.
 
 ---
 

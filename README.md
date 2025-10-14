@@ -4,7 +4,7 @@ Hi, I'm **Omkar Kulkarni**, a passionate **Backend Developer** who loves buildin
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,postman,idea,vscode" />

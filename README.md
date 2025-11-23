@@ -2,7 +2,7 @@
 
 Hi, I'm **Omkar Kulkarni**, a passionate **Backend Developer** who loves building scalable systems and meaningful digital products. I thrive in open-source development, write clean and maintainable code, and enjoy collaborating with creative, driven engineers. I'm actively seeking **Software Engineering opportunities** and contributing to **Open Source**, empowering developer communities.
 
---- 
+---     
 
 ## 🛠️ Tech Stack
 
